@@ -1,6 +1,23 @@
-
 # Discord
 
+## Table of Contents
+1. [Overview](#overview)
+2. [Key Features](#key-features)
+3. [Installation Guide](#Installation-Guide)
+    - [Windows Installation](#Windows)
+    - [macOS Installation](#macOS)
+    - [Linux Installation](#Linux)
+4. [User Guide](#User-Guide)
+    - [Creating a Server](#Creating-a-Server)
+    - [Joining a Server](#Joining-a-Server)
+    - [Collaboration](#Collaboration)
+    - [Reporting](#Reporting)
+5. [Troubleshooting](#Troubleshooting)
+7. [Advanced Usage](#Advanced-Usage)
+    - [Integration](#Integration)
+
+---
+## Overview
 [**Discord**](https://discord.com/) is a powerful multipurpose communication tool
 was designed mainly for communities such as gaming, school club, study group, artists and createors. Discord allows users to create or join servers to communicate with each other. Discord provide a various features such as voice channels, text chat, and screen sharing. 
 
@@ -14,7 +31,6 @@ was designed mainly for communities such as gaming, school club, study group, ar
 - **Text Chat**: Sending messages withing a server.
 - **Screen Sharing**: Share your screen to present during meetings. 🖥️
 - **Role Management**: This function is used by owners to manage members with custom roles and permissions.
-
 
 ---
 
