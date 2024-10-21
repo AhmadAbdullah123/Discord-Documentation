@@ -1,6 +1,6 @@
 # Discord
 
-## Table of Contents
+## Contents
 1. [Overview](#overview)
 2. [Key Features](#key-features)
 3. [Installation Guide](#Installation-Guide)
