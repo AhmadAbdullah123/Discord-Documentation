@@ -14,7 +14,7 @@
     - [Reporting](#Reporting)
 5. [Troubleshooting](#Troubleshooting)
 7. [Advanced Usage](#Advanced-Usage)
-    - [Integration](#Integration)
+    - [Integration](#Integrations)
 
 ---
 ## Overview
