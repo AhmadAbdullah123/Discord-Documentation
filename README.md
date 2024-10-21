@@ -86,7 +86,7 @@ Comparison between the different options they provide:
 
 ### Reporting
 
-We can use Discort Bot or external tools to generate report for a specific server at a specific time. 
+We can use Discord Bot or external tools to generate report for a specific server at a specific time. 
 Example of server report using JSON format: 
 
 
